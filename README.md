@@ -7,6 +7,7 @@ A Frontend Clone(part 1) of popular OTT platform Netlix. I have designed the Lan
 * CSS Media Queries
 * Bootstrap
 * Javascript
+* Netlify
 
 # Link to Website:
 https://netflix-frontend-clone01.netlify.app/
